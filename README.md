@@ -14,12 +14,12 @@ There are 3 Solidity files:
 
 #### Reference links  
 
-Planning and specifying methodology (personal article):
+* Planning and specifying methodology (personal article) -
 https://medium.com/@dejanradic.me/ethereum-smart-contract-planning-specification-339739adac54
-Commit/Reveal pattern:
+* Commit/Reveal pattern -
 https://medium.com/gitcoin/commit-reveal-scheme-on-ethereum-25d1d1a25428
 https://ethereum.stackexchange.com/questions/72717/commit-reveal-sequence-design
-Working with Strings in Solidity:
+* Working with Strings in Solidity -
 https://betterprogramming.pub/solidity-playing-with-strings-aca62d118ae5
-Hashing with Keccak256:
+* Hashing with Keccak256 -
 https://solidity-by-example.org/hashing/
